@@ -1,0 +1,4 @@
+Communications of the ACM,80,IEEE,14-6-2021
+eLearn,50,ACM,12-1-2021
+AmirMagazine,12,Amir,12-12-2020
+Michael's,10,Michael,1-1-2010
